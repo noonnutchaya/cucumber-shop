@@ -9,5 +9,6 @@ import org.junit.runner.RunWith;
                  plugin = {"pretty", "html:target/cucumber"})
 public class BuyUAT {
 
+
 }
 
