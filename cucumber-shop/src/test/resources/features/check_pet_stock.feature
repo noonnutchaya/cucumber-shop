@@ -1,4 +1,5 @@
 Feature: Buy pets with stock condition
+        [Exception] try-catch in Pets.java
 
 Background:
     Given My pet shop has Dog with quantity 10 and 5000 for each.
